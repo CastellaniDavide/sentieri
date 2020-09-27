@@ -18,6 +18,7 @@ This is the sentieri for cpp files.
  - doc
    - LICENSE
    - README.md
+   - README.pdf
  - log
 	 - trace.log
    
